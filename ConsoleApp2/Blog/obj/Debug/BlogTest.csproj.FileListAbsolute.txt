@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\Blog.exe.config
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\Blog.exe
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\Blog.pdb
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\ConsoleApp2.dll
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\ConsoleApp2.pdb
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\ConsoleApp2.dll.config
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\obj\Debug\BlogTest.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\obj\Debug\Blog.exe
+c:\users\student\documents\visual studio 2017\Projects\ConsoleApp2\Blog\obj\Debug\Blog.pdb
