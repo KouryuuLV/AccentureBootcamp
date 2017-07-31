@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHermes", "ChatHermes\ChatHermes.csproj", "{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHermes.Tests", "ChatHermes.Tests\ChatHermes.Tests.csproj", "{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HermesORM", "HermesORM\HermesORM.csproj", "{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HermesWCF", "HermesWCF\HermesWCF.csproj", "{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
