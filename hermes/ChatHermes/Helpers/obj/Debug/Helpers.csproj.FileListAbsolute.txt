@@ -1,0 +1,9 @@
+C:\Users\Olga\Source\Repos\hermes\ChatHermes\Helpers\bin\Debug\Helpers.dll
+C:\Users\Olga\Source\Repos\hermes\ChatHermes\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Olga\Source\Repos\hermes\ChatHermes\Helpers\obj\Debug\Helpers.dll
+C:\Users\Olga\Source\Repos\hermes\ChatHermes\Helpers\obj\Debug\Helpers.pdb
+C:\Repos\hermes\ChatHermes\Helpers\bin\Debug\Helpers.dll
+C:\Repos\hermes\ChatHermes\Helpers\bin\Debug\Helpers.pdb
+C:\Repos\hermes\ChatHermes\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Repos\hermes\ChatHermes\Helpers\obj\Debug\Helpers.dll
+C:\Repos\hermes\ChatHermes\Helpers\obj\Debug\Helpers.pdb

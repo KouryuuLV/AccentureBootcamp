@@ -1,0 +1,2 @@
+C:\Users\Olga\Source\Repos\hermes\ChatHermes\ChatHermes.Tests\obj\Debug\ChatHermes.Tests.csprojResolveAssemblyReference.cache
+C:\Repos\hermes\ChatHermes\ChatHermes.Tests\obj\Debug\ChatHermes.Tests.csprojResolveAssemblyReference.cache

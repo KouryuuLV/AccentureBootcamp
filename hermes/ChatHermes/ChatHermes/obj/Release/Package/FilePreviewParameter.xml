@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="HermesChat" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Olga\\Source\\Repos\\hermes\\ChatHermes\\ChatHermes\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Olga\\Source\\Repos\\hermes\\ChatHermes\\ChatHermes\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MyDB-Web.config Connection String" description="MyDB Connection String used in web.config by the application to access the database." value="Data Source=dbhermes.database.windows.net;Initial Catalog=HermesData;Integrated Security=False;User ID=hermeschat;Password=********;Connect Timeout=15;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Olga\\Source\\Repos\\hermes\\ChatHermes\\ChatHermes\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyDB']/@connectionString" />
+  </parameter>
+</parameters>

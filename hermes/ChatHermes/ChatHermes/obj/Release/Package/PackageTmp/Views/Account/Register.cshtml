@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "HermesChat - Register";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    @Styles.Render("http://fonts.googleapis.com/css?family=Roboto:400,100,300,500")
+    @Styles.Render("~/Scripts/bootstrap.min.js")
+    @Styles.Render("~/Scripts/font-awesome.min.css")
+    @Styles.Render("~/Scripts/form-elements.css")
+    @Styles.Render("~/Scripts/style.css")
+
+    <style>
+        body {
+            background-image: url(../../Content/img/1.png);
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="top-content">
+
+        <div class="inner-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-5">
+
+                        <div class="form-box">
+                            <div class="form-top">
+                                <div class="form-top-left">
+                                    <h3>Register</h3>
+                                </div>
+                                <div class="form-top-right">
+                                    <i class="fa fa-pencil"></i>
+                                </div>
+                            </div>
+                            <div class="form-bottom">
+                                <form role="form" action="" method="post" class="registration-form">
+                                    <div class="form-group">
+                                        <label class="sr-only" for="form-display-name">Display name</label>
+                                        <input type="text" name="form-display-name" placeholder="Display name..." class="form-display-name form-control" id="form-display-name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="form-first-name">First name</label>
+                                        <input type="text" name="form-first-name" placeholder="First name..." class="form-first-name form-control" id="form-first-name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="form-last-name">Last name</label>
+                                        <input type="text" name="form-last-name" placeholder="Last name..." class="form-last-name form-control" id="form-last-name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="form-password">Password</label>
+                                        <input type="text" name="form-password-name" placeholder="Password..." class="form-password form-control" id="form-password">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="form-password">Retype Password</label>
+                                        <input type="text" name="form-password-name" placeholder="Retype password..." class="form-password form-control" id="form-password">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="form-email">Email</label>
+                                        <input type="text" name="form-email" placeholder="Email..." class="form-email form-control" id="form-email">
+                                    </div>
+                                    <button type="submit" class="btn">Register</button>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    @Scripts.Render("~/Scripts/jquery-1.10.2.min.js")
+    @Scripts.Render("~/Scripts/bootstrap.min.js")
+    @Scripts.Render("~/Scripts/jquery.backstretch.min.js")
+
+</body>
+
+</html>
