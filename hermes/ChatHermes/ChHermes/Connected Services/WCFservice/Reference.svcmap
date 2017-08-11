@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b147d450-aded-47db-89e9-253e4a522c4b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:54404/ChatHermesService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ChatHermesService.xsd" MetadataType="Schema" ID="60f75386-80e9-4449-8665-9f931eb531b2" SourceId="1" SourceUrl="http://localhost:54404/ChatHermesService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ChatHermesService1.xsd" MetadataType="Schema" ID="b708e51f-0f44-4d4f-bac8-d1c5f808c105" SourceId="1" SourceUrl="http://localhost:54404/ChatHermesService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ChatHermesService2.xsd" MetadataType="Schema" ID="2f6ff9eb-ff00-432d-aaa4-430e5c68a9ad" SourceId="1" SourceUrl="http://localhost:54404/ChatHermesService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ChatHermesService.disco" MetadataType="Disco" ID="4be0a2c9-9efd-4f9c-aa42-356a8e3fcb05" SourceId="1" SourceUrl="http://localhost:54404/ChatHermesService.svc?disco" />
+    <MetadataFile FileName="HermesService.wsdl" MetadataType="Wsdl" ID="41eee8db-5de8-4795-9be0-21ec04969193" SourceId="1" SourceUrl="http://localhost:54404/ChatHermesService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

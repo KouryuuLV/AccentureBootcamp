@@ -1,4 +1,5 @@
-﻿using System;
+﻿//https://www.captechconsulting.com/blogs/Customizing-the-ASPNET-Identity-Data-Model-with-the-Entity-Framework-Fluent-API--Part-1
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,14 +12,14 @@ namespace HermesORM
     public class DbHermesContext : System.Data.Entity.DbContext
     {
         // ------ Here goes Object definitions for EF
-        public System.Data.Entity.DbSet<User> User { get; set; } // User table
+        public System.Data.Entity.DbSet<UserContract> User { get; set; } // User table
         static DbHermesContext()
         {
             System.Data.Entity.Database.SetInitializer<DbHermesContext>(null);
         }
 
         #region constructor overrides
-        public DbHermesContext() : base("Name=StudentDb")
+        public DbHermesContext() : base("Name=HermesDb")
         {
         }
 
@@ -37,6 +38,13 @@ namespace HermesORM
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Configurations.Add(new UserMap());
+
+    //        modelBuilder.Entity<DbHermesContext>()
+    //.HasKey(p => p.Id)
+    //    .Property(p => p.Id)
+    //        .StoreGeneratedPattern = StoreGeneratedPattern.None;
+
+    //        builder.Entity<DbHermesContext>().MapSingleType().ToTable("BOB");
         }
     }
 }

@@ -11,7 +11,7 @@ namespace ChatHermes.Contracts
         public class UserContract
         {
             [DataMember]
-            public int UserId;
+            public string UserId;
             [DataMember]
             public string UserName;
             [DataMember]
@@ -23,7 +23,22 @@ namespace ChatHermes.Contracts
             [DataMember]
             public string Email;
             [DataMember]
-            public string Image;
+            public string SecurityStamp;
+            [DataMember]
+            public bool EmailConfirmed;
+            [DataMember]
+            public string PhoneNumber;
+            [DataMember]
+            public bool PhoneNumberConfirmed;
+            [DataMember]
+            public bool TwoFactorEnable;
+            [DataMember]
+            public DateTime LockoutEndDateUtc;
+            [DataMember]
+            public bool LockoutEnabled;
+            [DataMember]
+            public int AccessFailedCount;
+
     }
     
 }

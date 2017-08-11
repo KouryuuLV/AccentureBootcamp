@@ -57,10 +57,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ChatHermes\ChatHermes.csproj">
-      <Project>{2f5c464b-356a-4f8b-a478-c2f069fa3ddc}</Project>
-      <Name>ChatHermes</Name>
+    <ProjectReference Include="..\ChHermes\ChHermes.csproj">
+      <Project>{e0ed6207-fb90-4e2d-a9ae-edded421c808}</Project>
+      <Name>ChHermes</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,392 @@
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\ApplicationInsights.config
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\csc.exe
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\csc.exe.config
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\csc.rsp
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\csi.exe
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\csi.rsp
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\System.AppContext.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\System.Collections.Immutable.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\System.IO.FileSystem.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\vbc.exe
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\vbc.exe.config
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\vbc.rsp
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\VBCSCompiler.exe
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\roslyn\VBCSCompiler.exe.config
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\ChHermes.dll.config
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\ChHermes.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\ChHermes.pdb
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Antlr3.Runtime.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\EntityFramework.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\EntityFramework.SqlServer.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.Web.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.WindowsServer.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.ApplicationInsights.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Google.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Web.Infrastructure.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Newtonsoft.Json.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Owin.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Helpers.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Mvc.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Optimization.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Razor.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.WebPages.Deployment.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.WebPages.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.WebPages.Razor.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\WebGrease.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Helpers.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Mvc.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Optimization.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.Razor.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.WebPages.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.WebPages.Deployment.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\System.Web.WebPages.Razor.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Antlr3.Runtime.pdb
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Newtonsoft.Json.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\EntityFramework.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\EntityFramework.SqlServer.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Google.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.ApplicationInsights.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.WindowsServer.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\bin\Microsoft.AI.Web.xml
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\obj\Release\ChHermes.dll
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\obj\Release\ChHermes.pdb
+c:\users\olga\documents\visual studio 2017\Projects\ChHermes\ChHermes\obj\Release\ChHermes.csprojResolveAssemblyReference.cache
+C:\Repos\hermes\ChatHermes\ChHermes\bin\ApplicationInsights.config
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csc.exe
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csc.exe.config
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csc.rsp
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csi.exe
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csi.rsp
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.AppContext.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.Collections.Immutable.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.IO.FileSystem.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.exe
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.exe.config
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.rsp
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\VBCSCompiler.exe
+C:\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\VBCSCompiler.exe.config
+C:\Repos\hermes\ChatHermes\ChHermes\bin\ChHermes.dll.config
+C:\Repos\hermes\ChatHermes\ChHermes\bin\ChHermes.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\ChHermes.pdb
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Antlr3.Runtime.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.SqlServer.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Web.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.WindowsServer.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.ApplicationInsights.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Google.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Newtonsoft.Json.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Owin.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Helpers.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Mvc.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Optimization.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Razor.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Deployment.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Razor.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\WebGrease.dll
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Helpers.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Mvc.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Optimization.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Razor.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Deployment.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Razor.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Antlr3.Runtime.pdb
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Newtonsoft.Json.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.SqlServer.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Google.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.ApplicationInsights.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.WindowsServer.xml
+C:\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Web.xml
+C:\Repos\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.csprojResolveAssemblyReference.cache
+C:\Repos\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.dll
+C:\Repos\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.pdb
+F:\hermes\ChatHermes\ChHermes\bin\ApplicationInsights.config
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\csc.exe
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\csc.exe.config
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\csc.rsp
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\csi.exe
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\csi.rsp
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\System.AppContext.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\System.Collections.Immutable.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\System.IO.FileSystem.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\System.Reflection.Metadata.dll
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.exe
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.exe.config
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.rsp
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\VBCSCompiler.exe
+F:\hermes\ChatHermes\ChHermes\bin\roslyn\VBCSCompiler.exe.config
+F:\hermes\ChatHermes\ChHermes\bin\ChHermes.dll.config
+F:\hermes\ChatHermes\ChHermes\bin\ChHermes.dll
+F:\hermes\ChatHermes\ChHermes\bin\ChHermes.pdb
+F:\hermes\ChatHermes\ChHermes\bin\Antlr3.Runtime.dll
+F:\hermes\ChatHermes\ChHermes\bin\EntityFramework.dll
+F:\hermes\ChatHermes\ChHermes\bin\EntityFramework.SqlServer.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Agent.Intercept.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Web.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.WindowsServer.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.ApplicationInsights.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Google.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Web.Infrastructure.dll
+F:\hermes\ChatHermes\ChHermes\bin\Newtonsoft.Json.dll
+F:\hermes\ChatHermes\ChHermes\bin\Owin.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Helpers.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Mvc.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Optimization.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Razor.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Deployment.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.dll
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Razor.dll
+F:\hermes\ChatHermes\ChHermes\bin\WebGrease.dll
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Helpers.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Mvc.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Optimization.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.Razor.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Deployment.xml
+F:\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Razor.xml
+F:\hermes\ChatHermes\ChHermes\bin\Antlr3.Runtime.pdb
+F:\hermes\ChatHermes\ChHermes\bin\Newtonsoft.Json.xml
+F:\hermes\ChatHermes\ChHermes\bin\EntityFramework.xml
+F:\hermes\ChatHermes\ChHermes\bin\EntityFramework.SqlServer.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Google.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.ApplicationInsights.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.WindowsServer.xml
+F:\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Web.xml
+F:\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.csprojResolveAssemblyReference.cache
+F:\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.dll
+F:\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.pdb
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\ApplicationInsights.config
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csc.exe
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csc.exe.config
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csc.rsp
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csi.exe
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\csi.rsp
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.exe
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.exe.config
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\vbc.rsp
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\ChHermes.dll.config
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\ChHermes.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\ChHermes.pdb
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Antlr3.Runtime.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Newtonsoft.Json.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Owin.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Helpers.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Mvc.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Optimization.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Razor.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\WebGrease.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Helpers.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Mvc.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Optimization.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.Razor.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Newtonsoft.Json.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.csprojResolveAssemblyReference.cache
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.dll
+C:\Users\Student\Source\Repos\hermes\ChatHermes\ChHermes\obj\Release\ChHermes.pdb

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="HermesService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:54404/ChatHermesService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:54404/ChatHermesService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:54404/ChatHermesService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ChatHermes.Contracts" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IHermesService_GetAllUsers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllUsers" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetAllUsers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllUsersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_AddUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddUser" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_AddUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_FindPassword_InputMessage">
+    <wsdl:part name="parameters" element="tns:FindPassword" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_FindPassword_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FindPasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetEmail_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmail" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetEmail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmailResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_UpdatePassword_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePassword" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_UpdatePassword_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_RegisterUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:RegisterUser" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_RegisterUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RegisterUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_LoginQuery_InputMessage">
+    <wsdl:part name="parameters" element="tns:LoginQuery" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_LoginQuery_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginQueryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetHashedPassowrd_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetHashedPassowrd" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetHashedPassowrd_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetHashedPassowrdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetUserID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserID" />
+  </wsdl:message>
+  <wsdl:message name="IHermesService_GetUserID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserIDResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IHermesService">
+    <wsdl:operation name="GetAllUsers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/GetAllUsers" message="tns:IHermesService_GetAllUsers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/GetAllUsersResponse" message="tns:IHermesService_GetAllUsers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/AddUser" message="tns:IHermesService_AddUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/AddUserResponse" message="tns:IHermesService_AddUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPassword">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/FindPassword" message="tns:IHermesService_FindPassword_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/FindPasswordResponse" message="tns:IHermesService_FindPassword_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmail">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/GetEmail" message="tns:IHermesService_GetEmail_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/GetEmailResponse" message="tns:IHermesService_GetEmail_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePassword">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/UpdatePassword" message="tns:IHermesService_UpdatePassword_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/UpdatePasswordResponse" message="tns:IHermesService_UpdatePassword_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RegisterUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/RegisterUser" message="tns:IHermesService_RegisterUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/RegisterUserResponse" message="tns:IHermesService_RegisterUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LoginQuery">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/LoginQuery" message="tns:IHermesService_LoginQuery_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/LoginQueryResponse" message="tns:IHermesService_LoginQuery_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHashedPassowrd">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/GetHashedPassowrd" message="tns:IHermesService_GetHashedPassowrd_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/GetHashedPassowrdResponse" message="tns:IHermesService_GetHashedPassowrd_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUserID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IHermesService/GetUserID" message="tns:IHermesService_GetUserID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IHermesService/GetUserIDResponse" message="tns:IHermesService_GetUserID_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IHermesService" type="tns:IHermesService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllUsers">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/GetAllUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/AddUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindPassword">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/FindPassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmail">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/GetEmail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePassword">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/UpdatePassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterUser">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/RegisterUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginQuery">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/LoginQuery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHashedPassowrd">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/GetHashedPassowrd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUserID">
+      <soap:operation soapAction="http://tempuri.org/IHermesService/GetUserID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HermesService">
+    <wsdl:port name="BasicHttpBinding_IHermesService" binding="tns:BasicHttpBinding_IHermesService">
+      <soap:address location="http://localhost:54404/ChatHermesService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

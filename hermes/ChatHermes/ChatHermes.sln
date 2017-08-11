@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHermes", "ChatHermes\ChatHermes.csproj", "{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHermes.Tests", "ChatHermes.Tests\ChatHermes.Tests.csproj", "{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HermesORM", "HermesORM\HermesORM.csproj", "{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HermesWCF", "HermesWCF\HermesWCF.csproj", "{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{E54205D7-0EF7-4536-AAD4-BDF004F9D00E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHermes.WebHost", "ChatHermes.WebHost\ChatHermes.WebHost.csproj", "{88CC26E4-6FF2-41E4-A78B-F5109412830D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChHermes", "ChHermes\ChHermes.csproj", "{E0ED6207-FB90-4E2D-A9AE-EDDED421C808}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F5C464B-356A-4F8B-A478-C2F069FA3DDC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D9D19F3-AF31-48D5-ACE8-E8B44C04F3F1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF0053D8-FD12-4AD5-BB33-C347CE2379BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,10 +25,14 @@ Global
 		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4EEBCD5-D2FD-468B-AE32-EA34CB29969C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E54205D7-0EF7-4536-AAD4-BDF004F9D00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E54205D7-0EF7-4536-AAD4-BDF004F9D00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E54205D7-0EF7-4536-AAD4-BDF004F9D00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E54205D7-0EF7-4536-AAD4-BDF004F9D00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CC26E4-6FF2-41E4-A78B-F5109412830D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CC26E4-6FF2-41E4-A78B-F5109412830D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CC26E4-6FF2-41E4-A78B-F5109412830D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CC26E4-6FF2-41E4-A78B-F5109412830D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0ED6207-FB90-4E2D-A9AE-EDDED421C808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0ED6207-FB90-4E2D-A9AE-EDDED421C808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0ED6207-FB90-4E2D-A9AE-EDDED421C808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0ED6207-FB90-4E2D-A9AE-EDDED421C808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

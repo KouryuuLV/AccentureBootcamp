@@ -1,0 +1,14 @@
+﻿@if (Session["username"] != null)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("Hello " + Session["username"].ToString() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage", style = "color: black;" })
+                @Html.ActionLink("Log off", "LogOff", "Account", routeValues: null, htmlAttributes: new { title = "Log off", style="color: black;"})
+            </li>
+        </ul>
+    }
+}
